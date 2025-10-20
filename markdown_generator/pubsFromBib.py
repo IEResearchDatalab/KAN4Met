@@ -3,7 +3,7 @@
 
 # # Publications markdown generator for weather-routing-research
 # 
-# Takes a set of bibtex of publications and converts them for use with [ieresearchdatalab.github.io/kan4met](ieresearchdatalab.github.io/kan4met). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). 
+# Takes a set of bibtex of publications and converts them for use with [ieresearchdatalab.github.io/KAN4Met](ieresearchdatalab.github.io/KAN4Met). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). 
 # 
 # The core python code is also in `pubsFromBibs.py`. 
 # Run either from the `markdown_generator` folder after replacing updating the publist dictionary with:

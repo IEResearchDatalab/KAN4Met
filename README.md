@@ -1,1 +1,1 @@
-[ieresearchdatalab.github.io/kan4met](https://ieresearchdatalab.github.io/kan4met)
+[ieresearchdatalab.github.io/KAN4Met](https://ieresearchdatalab.github.io/KAN4Met)

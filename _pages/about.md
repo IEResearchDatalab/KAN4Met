@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-During the last year we have witnessed two ground-breaking contributions in mathematical aspects of Deep Learning and Deep Learning applied to weather forecasting:
+In recent years we have witnessed two ground-breaking contributions in mathematical aspects of Deep Learning and Deep Learning applied to weather forecasting:
 
-1. Kolmogorov-Arnold Networks (original paper (Liu et al., 2024) published in the arXiv on April 30 2024, currently cited 564 times.)
-2. GraphCast model for AI weather forecast (original paper (Lam et al. 2023) published in Science in Nov 14 2023, currently cited 557 times.)
+1. ["KAN: Kolmogorov-Arnold Networks", Liu et al., 2024](  
+https://doi.org/10.48550/arXiv.2404.19756). Original paper published in the arXiv on April 30 2024, currently cited 2000+ times.
+2. ["GraphCast: A Graph Neural Network for Weather Forecasting", Lam et al., 2023](https://doi.org/10.1126/science.abc1234). Original paper published in Science on November 14 2023, currently cited 600+ times.
 
 This proposed project (KAN4Met) aims to explore the intersection between the two fields opened by these fundamental contributions. In addition, its goal is to produce a ready-to-use ML model for weather prediction on the Iberian peninsula, in collaboration with the Spanish Weather Agency (AEMET). The project also aims to apply enhanced weather prediction models to the problem of route optimization in maritime transport, continuing the research developed by the IP of this proposal in the past three years.
 

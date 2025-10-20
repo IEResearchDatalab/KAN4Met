@@ -40,7 +40,7 @@ This proposed project (KAN4Met) aims to explore the intersection between the two
   {% endfor %}
 </ul>
 
-<a href="https://ieresearchdatalab.github.io/kan4met/publications/" class="button">See All Publications</a>
+<a href="{{ site.baseurl }}/publications/" class="button">See All Publications</a>
 
 <!-- Add this section to display the latest talks in bulletpoints -->
 <h2>Latest Talks</h2>
@@ -51,7 +51,7 @@ This proposed project (KAN4Met) aims to explore the intersection between the two
   {% endfor %}
 </ul>
 
-<a href="https://ieresearchdatalab.github.io/kan4met/talks/" class="button">See All Talks</a>
+<a href="{{ site.baseurl }}/talks/" class="button">See All Talks</a>
 
 <!-- Add this section to display the three latest news articles horizontally -->
 <!-- <h2>Latest News</h2>
@@ -89,4 +89,4 @@ This proposed project (KAN4Met) aims to explore the intersection between the two
   {% endfor %}
 </div>
 
-<a href="https://ieresearchdatalab.github.io/kan4met/news/" class="button">See All News</a>
+<a href="{{ site.baseurl }}/news/" class="button">See All News</a>

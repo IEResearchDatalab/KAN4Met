@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; justify-content: center;">
-  <div style="flex: 35%; margin-right: 10px;">
-    <img src="https://github.com/IEResearchDatalab/KAN4MET/tree/main/images/banner-bbva.png" alt="Banner BBVA" style="width: 100%; height: auto;"/>
-  </div>
-  <div style="flex: 65%; margin-left: 10px;">
-    <img src="https://github.com/IEResearchDatalab/KAN4MET/tree/main/images/banner-aei.png" alt="Banner AEI" style="width: 100%; height: auto;"/>
-  </div>
-</div>
-
 During the last year we have witnessed two ground-breaking contributions in mathematical aspects of Deep Learning and Deep Learning applied to weather forecasting:
 
 1. Kolmogorov-Arnold Networks (original paper (Liu et al., 2024) published in the arXiv on April 30 2024, currently cited 564 times.)
@@ -99,24 +90,3 @@ This proposed project (KAN4Met) aims to explore the intersection between the two
 </div>
 
 <a href="https://ieresearchdatalab.github.io/kan4met/news/" class="button">See All News</a>
-
----
-
-<div style="display: flex; justify-content: center;">
-  <div style="flex: 50%; margin-right: 10px;">
-    <a href="https://benchmark.ieresearchdatalab.github.io/kan4met/" class="button">WeatherRouting Bench 1.0</a>
-  </div>
-  <div style="flex: 50%; margin-left: 10px;">
-    <a href="https://demo.ieresearchdatalab.github.io/kan4met/" class="button">Demo</a>
-  </div>
-</div>
-
----
-
-This research is supported by:
-
-- [BBVA Foundation](https://www.fbbva.es/) via the project "Mathematical optimization for a more efficient, safer and decarbonized maritime transport".
-
-- Spanish [Agencia Estatal de Investigación](https://www.aei.gob.es/) under grant  TED2021-129455B-I00, "Optimization of maritime routes with real time oceanographic and meteorological data".
-
-<p align="center"><img src="https://github.com/IEResearchDatalab/KAN4MET/tree/main/images/banner.png" alt="Banner" width="100%"/></p>

@@ -10,10 +10,10 @@ redirect_from:
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 35%; margin-right: 10px;">
-    <img src="https://weathernavigation.com/images/banner-bbva.png" alt="Banner BBVA" style="width: 100%; height: auto;"/>
+    <img src="https://IEResearchDatalab.github.io/KAN4Met/images/banner-bbva.png" alt="Banner BBVA" style="width: 100%; height: auto;"/>
   </div>
   <div style="flex: 65%; margin-left: 10px;">
-    <img src="https://weathernavigation.com/images/banner-aei.png" alt="Banner AEI" style="width: 100%; height: auto;"/>
+    <img src="https://IEResearchDatalab.github.io/KAN4Met/images/banner-aei.png" alt="Banner AEI" style="width: 100%; height: auto;"/>
   </div>
 </div>
 
@@ -49,7 +49,7 @@ This proposed project (KAN4Met) aims to explore the intersection between the two
   {% endfor %}
 </ul>
 
-<a href="https://weathernavigation.com/publications/" class="button">See All Publications</a>
+<a href="https://IEResearchDatalab.github.io/KAN4Met/publications/" class="button">See All Publications</a>
 
 <!-- Add this section to display the latest talks in bulletpoints -->
 <h2>Latest Talks</h2>
@@ -60,7 +60,7 @@ This proposed project (KAN4Met) aims to explore the intersection between the two
   {% endfor %}
 </ul>
 
-<a href="https://weathernavigation.com/talks/" class="button">See All Talks</a>
+<a href="https://IEResearchDatalab.github.io/KAN4Met/talks/" class="button">See All Talks</a>
 
 <!-- Add this section to display the three latest news articles horizontally -->
 <!-- <h2>Latest News</h2>
@@ -98,16 +98,16 @@ This proposed project (KAN4Met) aims to explore the intersection between the two
   {% endfor %}
 </div>
 
-<a href="https://weathernavigation.com/news/" class="button">See All News</a>
+<a href="https://IEResearchDatalab.github.io/KAN4Met/news/" class="button">See All News</a>
 
 ---
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 50%; margin-right: 10px;">
-    <a href="https://benchmark.weathernavigation.com/" class="button">WeatherRouting Bench 1.0</a>
+    <a href="https://benchmark.IEResearchDatalab.github.io/KAN4Met/" class="button">WeatherRouting Bench 1.0</a>
   </div>
   <div style="flex: 50%; margin-left: 10px;">
-    <a href="https://demo.weathernavigation.com/" class="button">Demo</a>
+    <a href="https://demo.IEResearchDatalab.github.io/KAN4Met/" class="button">Demo</a>
   </div>
 </div>
 
@@ -119,4 +119,4 @@ This research is supported by:
 
 - Spanish [Agencia Estatal de Investigación](https://www.aei.gob.es/) under grant  TED2021-129455B-I00, "Optimization of maritime routes with real time oceanographic and meteorological data".
 
-<p align="center"><img src="https://weathernavigation.com/images/banner.png" alt="Banner" width="100%"/></p>
+<p align="center"><img src="https://IEResearchDatalab.github.io/KAN4Met/images/banner.png" alt="Banner" width="100%"/></p>

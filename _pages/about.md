@@ -10,10 +10,10 @@ redirect_from:
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 35%; margin-right: 10px;">
-    <img src="https://ieresearchdatalab.github.io/kan4met/images/banner-bbva.png" alt="Banner BBVA" style="width: 100%; height: auto;"/>
+    <img src="https://github.com/IEResearchDatalab/KAN4MET/tree/main/images/banner-bbva.png" alt="Banner BBVA" style="width: 100%; height: auto;"/>
   </div>
   <div style="flex: 65%; margin-left: 10px;">
-    <img src="https://ieresearchdatalab.github.io/kan4met/images/banner-aei.png" alt="Banner AEI" style="width: 100%; height: auto;"/>
+    <img src="https://github.com/IEResearchDatalab/KAN4MET/tree/main/images/banner-aei.png" alt="Banner AEI" style="width: 100%; height: auto;"/>
   </div>
 </div>
 
@@ -119,4 +119,4 @@ This research is supported by:
 
 - Spanish [Agencia Estatal de Investigación](https://www.aei.gob.es/) under grant  TED2021-129455B-I00, "Optimization of maritime routes with real time oceanographic and meteorological data".
 
-<p align="center"><img src="https://ieresearchdatalab.github.io/kan4met/images/banner.png" alt="Banner" width="100%"/></p>
+<p align="center"><img src="https://github.com/IEResearchDatalab/KAN4MET/tree/main/images/banner.png" alt="Banner" width="100%"/></p>

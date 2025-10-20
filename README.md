@@ -1,2 +1,1 @@
-# KAN4MET
-KAN4MET official website
+[weathernavigation.com](https://weathernavigation.com)

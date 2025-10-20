@@ -4,7 +4,7 @@ name: "Rafael Ballester-Ripoll"
 collection: team
 permalink: /team/rafael-ballester/
 affiliation: "IE University"
-image: "team/rafael-ballester.jpg"
+image: "rafael-ballester.jpg"
 profile: "https://www.ie.edu/university/about/faculty/rafael-ballester-ripoll/"
 priority: 10
 

@@ -28,7 +28,7 @@
 }
 
 /* Responsive avatar inside team-member */
-.team-member img {
+.team-avatar {
   border-radius: 50%;
   max-width: 100px;
   width: 100%;

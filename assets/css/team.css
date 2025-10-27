@@ -1,12 +1,38 @@
 .flex-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+/* Default: mobile-first - single column */
+.team-member {
+  flex: 0 0 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Tablet: two columns */
+@media (min-width: 600px) {
+  .team-member {
+    flex: 0 0 48%; /* two columns with gap */
   }
-  
+}
+
+/* Desktop: three columns */
+@media (min-width: 900px) {
   .team-member {
     flex: 0 0 30%;
-    box-sizing: border-box;
-    padding: 10px;
-    text-align: center;
   }
+}
+
+/* Responsive avatar inside team-member */
+.team-member img {
+  border-radius: 50%;
+  max-width: 100px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto 8px;
+}

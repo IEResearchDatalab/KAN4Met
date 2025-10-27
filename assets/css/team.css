@@ -11,7 +11,7 @@
   text-align: center;
 }
 
-.team-member > a > img {
+.team-avatar {
   border-radius: 50%;
   width: 100px;
 }

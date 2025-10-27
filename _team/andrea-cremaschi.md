@@ -6,6 +6,6 @@ permalink: /team/andrea-cremaschi/
 affiliation: "IE University"
 image: "andrea-cremaschi.png"
 profile: "https://www.ie.edu/es/universidad/acerca-de/claustro/andrea-cremaschi/"
-priority: 2
+priority: 1
 
 ---

@@ -1,6 +1,6 @@
 ---
 
-name: "Nemesio Rodriguez"
+name: "Nemesio Rodríguez"
 collection: team
 permalink: /team/nemesio-rodriguez/
 affiliation: "CESBIO"

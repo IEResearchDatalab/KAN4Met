@@ -1,2 +1,5 @@
 _site/
 
+# Local jekyll files
+vendor/
+.bundle/

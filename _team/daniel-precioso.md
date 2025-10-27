@@ -6,6 +6,6 @@ permalink: /team/daniel-precioso/
 affiliation: "IE University"
 image: "daniel-precioso.jpeg"
 profile: "https://danielprecioso.com"
-priority: 1
+priority: 3
 
 ---

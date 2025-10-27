@@ -28,11 +28,11 @@
 }
 
 /* Responsive avatar inside team-member */
-.team-avatar {
+.team-member img {
   border-radius: 50%;
-  max-width: 100px;
-  width: 100%;
-  height: auto;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
   display: block;
   margin: 0 auto 8px;
 }

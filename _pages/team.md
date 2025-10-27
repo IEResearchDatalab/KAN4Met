@@ -9,10 +9,10 @@ author_profile: true
 <link rel="stylesheet" href="{{ base_path }}/assets/css/team.css">
 
 <!-- Display team members -->
-<div class="team-members flex-container">
+<div class="team-members flex-container" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     {% assign sortedMembers = site.team | sort: 'priority'%}
     {% for member in sortedMembers %}
-        <div class="team-member">
+        <div class="team-member" style="flex: 0 0 30%; box-sizing: border-box; padding: 10px; text-align: center;">
             <a href="{{ member.profile }}" target="_blank" rel="noopener noreferrer">
                 <img src="{{ member.image }}" alt="{{ member.name }}" style="border-radius: 50%; width: 100px;">
             </a>

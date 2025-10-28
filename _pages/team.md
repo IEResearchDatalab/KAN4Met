@@ -5,6 +5,8 @@ permalink: /team/
 author_profile: true
 ---
 
+{% include base_path %}
+
 <!-- My external stylesheet -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/team.css">
 

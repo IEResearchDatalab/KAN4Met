@@ -4,7 +4,7 @@ name: "Miguel Vaquero"
 collection: team
 permalink: /team/miguel-vaquero/
 affiliation: "IE University"
-image: "miguel-vaquero.png"
+image: "https://ieresearchdatalab.github.io/KAN4Met/images/team/miguel-vaquero.png"
 profile: "https://www.ie.edu/es/universidad/acerca-de/claustro/miguel-vaquero-2/"
 priority: 1
 

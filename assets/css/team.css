@@ -10,3 +10,8 @@
   padding: 10px;
   text-align: center;
 }
+
+.team-member img {
+    border-radius: 50%;
+    width: 100px;
+  }

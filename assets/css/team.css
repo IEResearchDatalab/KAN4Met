@@ -2,16 +2,47 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    gap: 20px;
   }
   
 .team-member {
-  flex: 0 0 30%;
+  flex: 0 0 calc(33.333% - 20px);
   box-sizing: border-box;
-  padding: 10px;
+  padding: 20px;
   text-align: center;
 }
 
 .team-member img {
     border-radius: 50%;
-    width: 100px;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
   }
+
+.team-member img:hover {
+    transform: scale(1.05);
+  }
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  .team-member {
+    flex: 0 0 calc(50% - 20px);
+  }
+  
+  .team-member img {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@media (max-width: 480px) {
+  .team-member {
+    flex: 0 0 100%;
+  }
+  
+  .team-member img {
+    width: 120px;
+    height: 120px;
+  }
+}

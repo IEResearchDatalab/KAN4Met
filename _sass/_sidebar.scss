@@ -69,6 +69,7 @@
    Author profile and links
    ========================================================================== */
 
+// Author avatar is the logo image
 .author__avatar {
   display: table-cell;
   vertical-align: top;
@@ -84,11 +85,11 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 0%;  // Use 50% for circular avatars
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      // border: 1px solid $border-color;
     }
   }
 }
